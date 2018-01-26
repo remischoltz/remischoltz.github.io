@@ -30,21 +30,32 @@
     </item>
     
     <item>
-      <title>Magna</title>
-      <link>https://remischoltz.github.io/blogs/magna/</link>
+      <title>Lor</title>
+      <link>https://remischoltz.github.io/blogs/lor/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://remischoltz.github.io/blogs/magna/</guid>
-      <description></description>
+      <guid>https://remischoltz.github.io/blogs/lor/</guid>
+      <description>2010 Ceci est un test.</description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://remischoltz.github.io/blogs/ipsum/</link>
+      <title>Mon parcours extra-scolaire</title>
+      <link>https://remischoltz.github.io/blogs/extra/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://remischoltz.github.io/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <guid>https://remischoltz.github.io/blogs/extra/</guid>
+      <description>Test scolaire
+Pour Rémi</description>
+    </item>
+    
+    <item>
+      <title>Mon parcours scolaire</title>
+      <link>https://remischoltz.github.io/blogs/scolaire/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/scolaire/</guid>
+      <description>Test scolaire
+Pour Rémi</description>
     </item>
     
   </channel>
