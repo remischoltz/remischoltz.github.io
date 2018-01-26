@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Forty</title>
-    <link>http://example.org/categories/</link>
+    <link>https://remischoltz.github.io/categories/</link>
     <description>Recent content in Categories on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://remischoltz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/categories/</link>
+      <link>https://remischoltz.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://example.org/categories/</guid>
+      <guid>https://remischoltz.github.io/categories/</guid>
       <description></description>
     </item>
     
