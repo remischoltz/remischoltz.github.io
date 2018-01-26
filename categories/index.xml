@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Forty</title>
+    <title>Forty</title>
     <link>https://remischoltz.github.io/categories/</link>
-    <description>Recent content in Categories on Forty</description>
+    <description>Recent content on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,12 +12,97 @@
     
     
     <item>
-      <title></title>
-      <link>https://remischoltz.github.io/categories/</link>
+      <title>Aliquam</title>
+      <link>https://remischoltz.github.io/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://remischoltz.github.io/categories/</guid>
+      <guid>https://remischoltz.github.io/blogs/aliquam/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Aliquam</title>
+      <link>https://remischoltz.github.io/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>https://remischoltz.github.io/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>https://remischoltz.github.io/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lor</title>
+      <link>https://remischoltz.github.io/blogs/lor/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/lor/</guid>
+      <description>2010 Ceci est un test.</description>
+    </item>
+    
+    <item>
+      <title>Lor</title>
+      <link>https://remischoltz.github.io/blogs/lor/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/lor/</guid>
+      <description>2010 Ceci est un test.</description>
+    </item>
+    
+    <item>
+      <title>Mon parcours extra-scolaire</title>
+      <link>https://remischoltz.github.io/blogs/extra/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/extra/</guid>
+      <description>Test scolaire
+Pour Rémi</description>
+    </item>
+    
+    <item>
+      <title>Mon parcours extra-scolaire</title>
+      <link>https://remischoltz.github.io/blogs/extra/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/extra/</guid>
+      <description>Test scolaire
+Pour Rémi</description>
+    </item>
+    
+    <item>
+      <title>Mon parcours scolaire</title>
+      <link>https://remischoltz.github.io/blogs/scolaire/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/scolaire/</guid>
+      <description>Test scolaire
+Pour Rémi</description>
+    </item>
+    
+    <item>
+      <title>Mon parcours scolaire</title>
+      <link>https://remischoltz.github.io/blogs/scolaire/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://remischoltz.github.io/blogs/scolaire/</guid>
+      <description>Test scolaire
+Pour Rémi</description>
     </item>
     
   </channel>
